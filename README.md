@@ -5,4 +5,4 @@ On this project I'll showcase my knowledge of setting up an HTML boilerplate, wo
 and try to write good commit messages.
 
 
-The website will consist of a main index page which will have links to a few recipes.
+The website will consist of a main index page which will have links to a few recipes..
